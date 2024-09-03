@@ -1,0 +1,10 @@
+h1{
+    color: brown;
+}
+h2{color: gray;
+}
+h3{color: palevioletred;}
+img{height: 380px;
+width: 350px;
+position: absolute;
+bottom: 30px;}
